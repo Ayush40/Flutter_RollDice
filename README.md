@@ -15,7 +15,7 @@ Screenshots:
 
 ## How to Use:
 
-- Clone this repository to your local machine using git clone https://github.com/Ayush40/flutter-RollDice.git
+- Clone this repository to your local machine using git clone https://github.com/Ayush40/flutter-RollDice
 - Ensure you have Flutter installed on your machine.
 - Open the project in your preferred code editor or IDE.
 - Run the app on an emulator or physical device using flutter run.
